@@ -3,7 +3,7 @@
 Filip Orčić
 Branka Bajića 14, 21000 Novi Sad, Srbija | +381605572600 | filiporcic@gmail.com
 Novi Sad, 22.9.2024.
-Subject: Application for Junior JavaScript Developer
+Subject: Application for JavaScript Developer
 
 I am writing to express my strong interest in the Junior JavaScript Developer position. With my experience and passion for programming and web application development, I am confident in my ability to make a positive contribution to your team.
 
