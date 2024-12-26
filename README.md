@@ -13,7 +13,7 @@ I have dedicated significant attention to continuously learning JavaScript, whic
 
 I am communicative, persistent, and resourceful. I easily and willingly engage in communication with others because I believe that mutual respect and understanding are the foundation for good teamwork, which is essential for successful operations. I view any challenges that arise as opportunities to learn.
 
-Thank you for your attention, and I look forward to the opportunity to discuss in more detail how my skills can contribute to your team. Attached you will find my CV. I am available for an interview and can be reached via phone or email.
+Thank you for your attention, and I look forward to the opportunity to discuss in more detail how my skills can contribute to your team. I am available for an interview and can be reached via phone or email.
 
 Kind regards,
 Filip Orčić
