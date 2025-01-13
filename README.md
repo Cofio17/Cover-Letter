@@ -5,7 +5,7 @@ Branka Bajića 14, 21000 Novi Sad, Srbija | +381605572600 | filiporcic@gmail.com
 Novi Sad, 13.1.2025
 Subject: Application for React Developer
 
-I am writing to express my strong interest in the Junior JavaScript Developer position. With my experience and passion for programming and web application development, I am confident in my ability to make a positive contribution to your team.
+I am writing to express my strong interest in the React Developer position. With my experience and passion for programming and web application development, I am confident in my ability to make a positive contribution to your team.
 
 I am currently a final-year student in business informatics. Due to my strong desire to acquire new knowledge and further improve the skills I have gained through previous internships, projects, and studies, I believe I am an excellent candidate for this position.
 
